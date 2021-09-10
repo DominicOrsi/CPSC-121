@@ -1,0 +1,36 @@
+Seattle, WA
+
+217900
+Leavenworth, WA
+1
+
+717500
+Boise, ID
+2
+
+412850
+Craters of the Moon National Monument & Preserve, ID
+2
+
+910810
+Crater Lake National Park, OR
+3
+
+339300
+Six Rivers National Forest, Willow Creek, CA
+2
+
+653300
+South Lake Tahoe, CA
+4
+
+458800
+Death Valley National Park, CA
+1
+
+1479800
+Pikes Peak, CO
+3
+
+159500
+Denver, CO

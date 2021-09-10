@@ -1,0 +1,18 @@
+Seattle, WA to Leavenworth, WA: 135.397 miles.
+Leavenworth, WA to Boise, ID: 445.833 miles.
+Boise, ID to Craters of the Moon National Monument & Preserve, ID: 256.533 miles.
+Craters of the Moon National Monument & Preserve, ID to Crater Lake National Park, OR: 565.95 miles.
+Crater Lake National Park, OR to Six Rivers National Forest, Willow Creek, CA: 210.831 miles.
+Six Rivers National Forest, Willow Creek, CA to South Lake Tahoe, CA: 405.941 miles.
+South Lake Tahoe, CA to Death Valley National Park, CA: 285.085 miles.
+Death Valley National Park, CA to Pikes Peak, CO: 919.503 miles.
+Pikes Peak, CO to Denver, CO: 99.1085 miles.
+
+**Roadtrip Stats**
+Number of waypoints on roadtrip: 8
+Number of days on roadtrip: 20
+Total miles traveled on roadtrip: 3324.18
+Longest distance between waypoints on the roadtrip is Death Valley National Park, CA to Pikes Peak, CO: 919.503 miles
+Longest roadtrip days at one waypoint is South Lake Tahoe, CA: 4 days
+Average roadtrip distance between stops is: 369.353
+Average roadtrip days at one waypoint: 2.5
